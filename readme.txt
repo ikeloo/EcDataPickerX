@@ -1,2 +1,2 @@
 This is the content of readme.txt
-abcdefg12345
+abcdefg12345ABCDE
